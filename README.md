@@ -34,12 +34,27 @@ that decides and the self that has to live with it.
   in time
 - **Data as self-portrait** — journals, logs, and patterns as raw material
 
+## The Bible
+
+`THE_BIBLE.md` governs how Claude and the artist divide the work here:
+everything objectifiable goes to the system, so all human mental energy
+goes to the Feel. Neither party strays from it.
+
 ## Repository Structure
 
 ```
-songs/    — one folder per song: lyrics, structure notes, demo links
+THE_BIBLE.md — the covenant; the division of labor between system and Feel
+
+The material:
+songs/    — one folder per song: spec, lyrics, structure notes, demo links
 lyrics/   — fragments, verses, and hooks not yet attached to a song
 ideas/    — concepts, titles, journal excerpts, anything that might become music
+
+The system (one folder per Bible strength):
+specs/    — declared intent: spec template, audit checklist, deviation log
+craft/    — the measurable mechanics: prosody, rhyme, structure checks
+process/  — rules of engagement, session journal, stats
+truth/    — the specificity test; where avoidance hides in vague lines
 ```
 
 ## Working Notes
