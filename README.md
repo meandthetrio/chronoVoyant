@@ -50,11 +50,11 @@ songs/    — one folder per song: spec, lyrics, structure notes, demo links
 lyrics/   — fragments, verses, and hooks not yet attached to a song
 ideas/    — concepts, titles, journal excerpts, anything that might become music
 
-The system (one folder per Bible strength):
-specs/    — declared intent: spec template, audit checklist, deviation log
-craft/    — the measurable mechanics: prosody, rhyme, structure checks
+The system (one folder per Bible strength — contents decided together):
+specs/    — everything declarative: holding declared intent against the artifact
+craft/    — the measurable mechanics of lyric and arrangement
 process/  — rules of engagement, session journal, stats
-truth/    — the specificity test; where avoidance hides in vague lines
+truth/    — the truth-avoidance detector: flagging abstraction
 ```
 
 ## Working Notes
