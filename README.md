@@ -45,16 +45,14 @@ goes to the Feel. Neither party strays from it.
 ```
 THE_BIBLE.md — the covenant; the division of labor between system and Feel
 
-The material:
-songs/    — one folder per song: spec, lyrics, structure notes, demo links
-lyrics/   — fragments, verses, and hooks not yet attached to a song
-ideas/    — concepts, titles, journal excerpts, anything that might become music
-
-The system (one folder per Bible strength — contents decided together):
-specs/    — everything declarative: holding declared intent against the artifact
-craft/    — the measurable mechanics of lyric and arrangement
-process/  — rules of engagement, session journal, stats
-truth/    — the truth-avoidance detector: flagging abstraction
+songs/        — one folder per song; each will carry files pertaining to each spec
+specsDefined/ — the objective system, one subfolder per Bible strength:
+                  Everything declarative/
+                  Craft mechanics/
+                  Process and statistics/
+                  The truth-avoidance detector/
+                SpecDefinitions.md defines each; definitions are settled in
+                discussion before any song work begins.
 ```
 
 ## Working Notes
