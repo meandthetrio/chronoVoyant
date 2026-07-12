@@ -24,9 +24,18 @@ extensions:
 
 - **Core** (must exist before the first audit): **POV** (person, and who
   the "you" is if there is one), **tense**, **setting** (the concrete
-  anchor — where and when the song lives), and **the claim** — one
+  anchor — where and when the song lives), **the claim** — one
   sentence stating what the song is about, specific enough to drift
-  from.
+  from — **mode**: **testimony** (first-person truth is the
+  material) or **script** (invented characters; Murphy-mode) — and
+  **audience clock**: **7 a.m.** (the drive-time listener; the full
+  Murphy doctrines audit at strength) or **10 p.m.** (the room; a
+  different, legitimate craft — frequent deliberate deviation from the
+  7 a.m. doctrines is expected and logged as choice, like any
+  deviation). *(Mode added 2026-07-11 via SongCraft doctrine D5,
+  scoped; audience clock added 2026-07-11 via doctrine D7 — see
+  SongCraft/AXIOMS.md.)* In both modes the claim must be true of the
+  artist: characters may be invented, the reason for writing may not.
 - **Extensions** (optional, each timestamped when added): form, hook
   placement, rhyme scheme, title, tempo/key, anything else the artist
   wants held.
@@ -135,10 +144,17 @@ songwriting equivalent of a rationalized trade.
 **How flagging works.** The detector runs line by line in the same audit
 pass as everything else, on top of the concrete-vs-abstract
 classification from craft check #6. Every abstract line gets one flag
-and one question — **"what actually happened?"** — never a rewrite,
-never a suggested alternative. Flagging is uniform across sections
-(choruses included); the deliberate mark is what absorbs a chorus's wide
-word, cheaply.
+and one question — never a rewrite, never a suggested alternative. The
+question depends on the song's declared **mode** *(amendment
+2026-07-11, from SongCraft doctrine D5 scoped)*: in a **testimony**
+song it is **"what actually happened?"**, at full strength — an
+invented specific standing in for an unfaced true thing is itself
+avoidance; in a **script** song it is **"what happens in this
+story?"** — vagueness remains a defect, as craft rather than honesty,
+and invention is legal. In both modes the declaration's claim must be
+true of the artist. Flagging is uniform across sections (choruses
+included); the deliberate mark is what absorbs a chorus's wide word,
+cheaply.
 
 **Flags persist and resolve exactly once.** A resolved line is never
 re-flagged. An unresolved flag carries forward across drafts — and a

@@ -1,8 +1,10 @@
 # Songcraft Axioms
 
-**Status: mechanics ADOPTED — 2026-07-11. Doctrines (section 5) are
-individually opt-in and NOT adopted until the artist says so, item by
-item.**
+**Status: mechanics ADOPTED — 2026-07-11. All seven doctrines (section
+5) individually ADOPTED — 2026-07-11, D5 scoped. Two doctrines added
+fields to the core song declaration: D5 → mode (testimony | script),
+D7 → audience clock (7 a.m. | 10 p.m.); see
+specsDefined/SpecDefinitions.md.**
 
 Distilled from the three cleaned documents in this folder (raw
 transcripts are the provenance record). Same governance as
@@ -183,21 +185,41 @@ learned — "learn everything the same and you're free to be different."
 
 ## 5. Doctrines — individual opt-in
 
-**None of these are adopted yet.** Each touches the artist's voice, so
-each is a declaration-style choice: adopt it and it becomes auditable
-(drift flagged, deviations recorded like any other declared field);
-decline it and it is never flagged. Adopt/decline is recorded here,
-per item, with a date.
+Each doctrine touches the artist's voice, so each was a
+declaration-style choice: adopted doctrines are auditable (drift
+flagged, deviations recorded like any other declared field); declined
+ones are never flagged. Adopt/decline is recorded here, per item, with
+a date. **As of 2026-07-11 all seven are ADOPTED (D5 scoped).**
 
 | # | Doctrine | Source | If adopted, the audit asks | Status |
 |---|---|---|---|---|
-| D1 | **The singer is always a winner** — never a loser, never over 30; if there's a loser in the song, it's somebody else; never share an experience without a happy ending or that doesn't showcase the singer | C1, C3 | Does the singer lose? Admit failure? Age past 30? | *undecided* |
-| D2 | **No whining, preaching, or venting** except with humor, irony, and detail | C1, C3 | Is this section whine/preach/vent without all three redeemers? | *undecided* |
-| D3 | **Pronoun rules**: loser/over-30/preachy material goes to he/she (report, then conclude); "you" invites the listener in and has the most impact; playing the you-card obligates telling them how great they are; "we" is preachy without humor/irony/detail | C1, C3 | Pronoun-by-pronoun POV check against the declared POV | *undecided* |
-| D4 | **The audience is women** — men sing to women, women sing to women; the working template is the 7 a.m. drive-time listener (25–40, hates the job, kids dropped off, car breaking down); win her and you win everyone | C1, C3 | Does this script make the singer look good *to her*? | *undecided* |
-| D5 | **"Believing makes it so — never let the truth get in the way of a good story."** ⚠ Note: this directly tensions with the truth-avoidance detector and the Bible's premise that the Feel is knowing whether a line is true. Adopting it would need a scope rule (e.g., applies to invented characters/scripts, never to first-person truth songs) | C3 | Is factual fidelity ever allowed to weaken the script? | *undecided* |
-| D6 | **The three-questions test**: on finishing any piece — what's in it for the listener, ×3; if nothing, it was wasted time | C1 | Run as a closing diagnostic on every finished draft? | *undecided* |
-| D7 | **The 7 a.m. / 10 p.m. frame**: writing for the 10-o'clock-at-night constituency is a legitimate but different craft from writing for the 7 a.m. listener; declare per song which one it's for | C3 | Each song declaration gains an "audience clock" field | *undecided* |
+| D1 | **The singer is always a winner** — never a loser, never over 30; if there's a loser in the song, it's somebody else; never share an experience without a happy ending or that doesn't showcase the singer | C1, C3 | Does the singer lose? Admit failure? Age past 30? | **ADOPTED — 2026-07-11** |
+| D2 | **No whining, preaching, or venting** except with humor, irony, and detail | C1, C3 | Is this section whine/preach/vent without all three redeemers? | **ADOPTED — 2026-07-11** |
+| D3 | **Pronoun rules**: loser/over-30/preachy material goes to he/she (report, then conclude); "you" invites the listener in and has the most impact; playing the you-card obligates telling them how great they are; "we" is preachy without humor/irony/detail | C1, C3 | Pronoun-by-pronoun POV check against the declared POV | **ADOPTED — 2026-07-11** |
+| D4 | **The audience is women** — men sing to women, women sing to women; the working template is the 7 a.m. drive-time listener (25–40, hates the job, kids dropped off, car breaking down); win her and you win everyone | C1, C3 | Does this script make the singer look good *to her*? | **ADOPTED — 2026-07-11** |
+| D5 | **"Believing makes it so — never let the truth get in the way of a good story."** Adopted SCOPED — see the scope rule below the table | C3 | Mode-dependent — see scope rule | **ADOPTED (scoped) — 2026-07-11** |
+| D6 | **The three-questions test**: on finishing any piece — what's in it for the listener, ×3; if nothing, it was wasted time | C1 | Run as a closing diagnostic on every finished draft? | **ADOPTED — 2026-07-11** |
+| D7 | **The 7 a.m. / 10 p.m. frame**: writing for the 10-o'clock-at-night constituency is a legitimate but different craft from writing for the 7 a.m. listener; declare per song which one it's for | C3 | Each song declaration gains an "audience clock" field | **ADOPTED — 2026-07-11** |
+
+### The D5 scope rule (adopted 2026-07-11)
+
+Every song's core declaration includes a **mode**: **testimony** or
+**script**.
+
+- **Testimony**: first-person truth is the material. The
+  truth-avoidance detector runs at full strength; "what actually
+  happened?" means what it says; D5 is **off** — an invented specific
+  standing in for a true thing the artist isn't looking at is itself
+  flagged as avoidance.
+- **Script**: invented characters, Murphy-mode. D5 is **on** — factual
+  fidelity never gets to weaken the script. The detector still runs,
+  but its question mutates to **"what happens in this story?"** —
+  vagueness remains a defect, as craft rather than honesty.
+- **The keel (both modes)**: the declaration's *claim* — the
+  one-sentence "what this song is about" — must be true of the artist
+  even in a script song. The characters, town, and yellow car may be
+  invented; the reason for writing the song may not. That is the line
+  between fiction and avoidance.
 
 ---
 
