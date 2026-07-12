@@ -90,6 +90,24 @@ def song_paths():
             seg = os.path.join(ISO,"seglab","The Beatles",album,f)
             fca = os.path.join(FC, album, base + "_func_A.lab")
             fcb = os.path.join(FC, album, base + "_func_B.lab")
+            if not (os.path.exists(fca) or os.path.exists(fcb)):
+                # punctuation differs between the datasets: match on
+                # alphanumerics only
+                fcdir = os.path.join(FC, album)
+                norm = re.sub(r"[^A-Za-z0-9]", "", base).lower()
+                if os.path.isdir(fcdir):
+                    for g in os.listdir(fcdir):
+                        if not g.endswith(".lab"): continue
+                        m2 = re.match(r"^(.*)_func_([AB])\.lab$", g)
+                        stem = m2.group(1) if m2 else g[:-4]
+                        which = m2.group(2) if m2 else "A"
+                        gn = re.sub(r"[^A-Za-z0-9]", "", stem).lower()
+                        # exact or prefix match either way (dataset
+                        # filenames truncate/expand titles); guard len
+                        if gn == norm or (min(len(gn), len(norm)) >= 6
+                                and (gn.startswith(norm) or norm.startswith(gn))):
+                            if which == "A": fca = os.path.join(fcdir, g)
+                            else: fcb = os.path.join(fcdir, g)
             yield (album, base, os.path.join(adir,f),
                    key if os.path.exists(key) else None,
                    seg if os.path.exists(seg) else None,

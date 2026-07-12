@@ -4,105 +4,113 @@ Every chord-to-chord move in the corpus (Roman numerals relative to
 the local key's major scale, extensions stripped), with song and
 section. Cross-reference with MusicTheory/AXIOMS.md section 4-5.
 
-## IV → I  — 1091 occurrences in 108 songs
+## IV → I  — 1114 occurrences in 111 songs
 
-A Hard Day's Night (outro); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (verse); All I've Got To Do (bridge); All My Loving (bridge); And Your Bird Can Sing (verse); And Your Bird Can Sing (verse_(guitar_solo)); Another Girl (intro); Another Girl (verse); Ask Me Why (verse_(variant_1)); … +260 more
+A Day In The Life (instrumental); A Day In The Life (verse); A Hard Day's Night (outro); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (verse); All I've Got To Do (bridge); All My Loving (bridge); And Your Bird Can Sing (verse); And Your Bird Can Sing (verse_(guitar_solo)); Anna (Go To Him) (bridge); … +265 more
 
-## I → IV  — 1003 occurrences in 114 songs
+## I → IV  — 1018 occurrences in 116 songs
 
-A Hard Day's Night (outro); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (verse); All I've Got To Do (bridge); All You Need Is Love (intro); All You Need Is Love (refrain); Another Girl (intro); Another Girl (verse); Ask Me Why (verse_(variant_2_with_ending)); Baby It's You (verse); … +244 more
+A Hard Day's Night (outro); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (verse); All I've Got To Do (bridge); All You Need Is Love (intro); All You Need Is Love (refrain); Anna (Go To Him) (bridge); Another Girl (intro); Another Girl (verse); Ask Me Why (verse_(variant_2_with_ending)); … +248 more
 
-## V → I  — 955 occurrences in 132 songs
+## V → I  — 966 occurrences in 135 songs
 
-A Hard Day's Night (bridge); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (break); Act Naturally (bridge); Act Naturally (intro); Act Naturally (verse); All My Loving (bridge); All My Loving (verse); All You Need Is Love (intro); All You Need Is Love (refrain); … +297 more
+A Day In The Life (verse); A Day In The Life (vocal); A Hard Day's Night (bridge); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (break); Act Naturally (bridge); Act Naturally (intro); Act Naturally (verse); All My Loving (bridge); All My Loving (verse); … +302 more
 
-## I → V  — 502 occurrences in 75 songs
+## I → V  — 517 occurrences in 77 songs
 
-Act Naturally (break); Act Naturally (bridge); Act Naturally (intro); Act Naturally (verse); All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); Another Girl (bridge); Any Time At All (refrain); Any Time At All (verse); Ask Me Why (bridge); Baby's In Black (intro); … +157 more
+A Day In The Life (vocal); Act Naturally (break); Act Naturally (bridge); Act Naturally (intro); Act Naturally (verse); All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); Another Girl (bridge); Any Time At All (refrain); Any Time At All (verse); Ask Me Why (bridge); … +160 more
 
-## IV → V  — 479 occurrences in 73 songs
+## IV → V  — 480 occurrences in 74 songs
 
-A Hard Day's Night (bridge); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (verse); All My Loving (verse); All You Need Is Love (intro); All You Need Is Love (refrain); And I Love Her (verse); And I Love Her (verse_(instrumental)); Another Girl (verse); Any Time At All (bridge); … +130 more
+A Day In The Life (verse); A Hard Day's Night (bridge); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Act Naturally (verse); All My Loving (verse); All You Need Is Love (intro); All You Need Is Love (refrain); And I Love Her (verse); And I Love Her (verse_(instrumental)); Another Girl (verse); … +131 more
 
-## I → vi  — 278 occurrences in 49 songs
+## I → vi  — 298 occurrences in 50 songs
 
-A Hard Day's Night (bridge); All I've Got To Do (bridge); All I've Got To Do (verse); All I've Got To Do (verse_outro); All My Loving (outro); All My Loving (refrain); All My Loving (verse); And I Love Her (verse); Any Time At All (bridge); Baby It's You (outro_(fade-out)); Baby It's You (verse); Baby It's You (verse_(half_solo)); … +86 more
+A Hard Day's Night (bridge); All I've Got To Do (bridge); All I've Got To Do (verse); All I've Got To Do (verse_outro); All My Loving (outro); All My Loving (refrain); All My Loving (verse); And I Love Her (verse); Anna (Go To Him) (chorus); Anna (Go To Him) (intro); Anna (Go To Him) (verse); Any Time At All (bridge); … +89 more
 
-## ii → V  — 235 occurrences in 40 songs
+## ii → V  — 244 occurrences in 42 songs
 
-All My Loving (bridge); All My Loving (verse); And Your Bird Can Sing (bridge); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Can't Buy Me Love (intro); Can't Buy Me Love (outro); Can't Buy Me Love (refrain); Carry That Weight (bridge); Devil In Her Heart (intro); Devil In Her Heart (outro); Devil In Her Heart (refrain); … +63 more
+All My Loving (bridge); All My Loving (verse); And Your Bird Can Sing (bridge); Anna (Go To Him) (verse); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); Can't Buy Me Love (intro); Can't Buy Me Love (outro); Can't Buy Me Love (refrain); Carry That Weight (bridge); … +66 more
 
-## V → IV  — 234 occurrences in 49 songs
+## V → IV  — 242 occurrences in 50 songs
 
-Baby's In Black (refrain); Baby's In Black (refrain_(guitar_solo(); Back in the USSR (bridge); Boys (bridge); Boys (intro); Boys (verse); Boys (verse_(guitar_solo)); Can't Buy Me Love (verse); Can't Buy Me Love (verse_(guitar_solo)); Chains (verse); Come Together (1/2_intro/verse); Come Together (intro/verse); … +85 more
+Baby's In Black (refrain); Baby's In Black (refrain_(guitar_solo(); Back in the USSR (bridge); Boys (bridge); Boys (intro); Boys (verse); Boys (verse_(guitar_solo)); Can't Buy Me Love (verse); Can't Buy Me Love (verse_(guitar_solo)); Chains (verse); Come Together (1/2_intro/verse); Come Together (intro/verse); … +89 more
 
-## II → V  — 166 occurrences in 40 songs
+## II → V  — 168 occurrences in 41 songs
 
-Act Naturally (bridge); All You Need Is Love (refrain); Ask Me Why (verse_(initial)); Back in the USSR (bridge); Devil In Her Heart (verse); Drive My Car (refrain); Fixing A Hole (bridge); For You Blue (intro); Good Day Sunshine (verse); Good Day Sunshine (verse/break); Her Majesty (verse); Hold Me Tight (bridge); … +51 more
+Act Naturally (bridge); All You Need Is Love (refrain); Anna (Go To Him) (bridge); Ask Me Why (verse_(initial)); Back in the USSR (bridge); Devil In Her Heart (verse); Drive My Car (refrain); Fixing A Hole (bridge); For You Blue (intro); Good Day Sunshine (verse); Good Day Sunshine (verse/break); Her Majesty (verse); … +52 more
 
-## vi → IV  — 153 occurrences in 33 songs
+## vi → IV  — 168 occurrences in 34 songs
 
-A Hard Day's Night (bridge); All I've Got To Do (bridge); All My Loving (verse); All You Need Is Love (refrain); And I Love Her (verse); And I Love Her (verse_(instrumental)); Any Time At All (refrain); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Baby It's You (verse); Baby It's You (verse_(half_solo)); Drive My Car (refrain); … +42 more
+A Day In The Life (bridge); A Day In The Life (intro); A Day In The Life (verse); A Hard Day's Night (bridge); All I've Got To Do (bridge); All My Loving (verse); All You Need Is Love (refrain); And I Love Her (verse); And I Love Her (verse_(instrumental)); Any Time At All (refrain); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); … +45 more
 
 ## I → ii  — 131 occurrences in 26 songs
 
 All My Loving (bridge); All My Loving (verse); And I Love Her (intro); And I Love Her (outro); And I Love Her (verse); And Your Bird Can Sing (bridge); And Your Bird Can Sing (verse); And Your Bird Can Sing (verse_(guitar_solo)); Ask Me Why (bridge); Ask Me Why (intro); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); … +41 more
 
-## bVII → I  — 128 occurrences in 22 songs
+## bVII → I  — 130 occurrences in 23 songs
 
-A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Another Girl (verse); Baby You're A Rich Man (verse); Cry Baby Cry (outro); Cry Baby Cry (refrain); Every Little Thing (refrain); Everybody's Got Something To Hide Except Me and My Monkey (outro); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Good Morning Good Morning (verse); Good Morning Good Morning (verse_a); … +27 more
+A Day In The Life (vocal); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Another Girl (verse); Baby You're A Rich Man (verse); Cry Baby Cry (outro); Cry Baby Cry (refrain); Every Little Thing (refrain); Everybody's Got Something To Hide Except Me and My Monkey (outro); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Good Morning Good Morning (verse); … +28 more
+
+## vi → ii  — 128 occurrences in 29 songs
+
+A Day In The Life (bridge); A Day In The Life (verse); All I've Got To Do (verse); All My Loving (verse); All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); And I Love Her (verse); And I Love Her (verse_(instrumental)); Anna (Go To Him) (verse); Baby It's You (verse); Baby It's You (verse_(half_solo)); … +38 more
 
 ## iv → I  — 124 occurrences in 26 songs
 
 A Taste Of Honey (bridge_with_ending); All I've Got To Do (verse); Any Time At All (verse); Black Bird (verse); Black Bird (verse_(instrumental)); Dear Prudence (bridge); Dear Prudence (intro); Dear Prudence (verse'); Dear Prudence (verse); Devil In Her Heart (verse); Happiness is a Warm Gun (part_4); Hold Me Tight (verse); … +31 more
 
-## vi → ii  — 118 occurrences in 27 songs
+## bVII → IV  — 118 occurrences in 21 songs
 
-All I've Got To Do (verse); All My Loving (verse); All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); And I Love Her (verse); And I Love Her (verse_(instrumental)); Baby It's You (verse); Baby It's You (verse_(half_solo)); Can't Buy Me Love (intro); Can't Buy Me Love (outro); Can't Buy Me Love (refrain); … +35 more
+A Day In The Life (instrumental); Black Bird (refrain); Dear Prudence (verse'); Dear Prudence (verse); Dig a Pony (intro); Dig a Pony (outro); Dig a Pony (refrain); Every Little Thing (verse); Every Little Thing (verse_(guitar_solo)); Get Back (break_(guitar_solo)); Here Comes The Sun (bridge_(instrumental)); I've Got A Feeling (bridge); … +24 more
 
-## bVII → IV  — 116 occurrences in 20 songs
+## I → bVII  — 116 occurrences in 22 songs
 
-Black Bird (refrain); Dear Prudence (verse'); Dear Prudence (verse); Dig a Pony (intro); Dig a Pony (outro); Dig a Pony (refrain); Every Little Thing (verse); Every Little Thing (verse_(guitar_solo)); Get Back (break_(guitar_solo)); Here Comes The Sun (bridge_(instrumental)); I've Got A Feeling (bridge); I've Got A Feeling (verse); … +23 more
-
-## I → bVII  — 115 occurrences in 21 songs
-
-A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Another Girl (verse); Baby You're A Rich Man (verse); Black Bird (verse); Dear Prudence (verse'); Dear Prudence (verse); Dig a Pony (intro); Dig a Pony (outro); Dig a Pony (refrain); Doctor Robert (verse); … +28 more
+A Day In The Life (vocal); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); A Hard Day's Night (verse_); Another Girl (verse); Baby You're A Rich Man (verse); Black Bird (verse); Dear Prudence (verse'); Dear Prudence (verse); Dig a Pony (intro); Dig a Pony (outro); Dig a Pony (refrain); … +29 more
 
 ## V → vi  — 114 occurrences in 29 songs
 
 All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); And I Love Her (bridge); Any Time At All (bridge); Any Time At All (refrain); Do You Want To Know A Secret (outro); Do You Want To Know A Secret (verse); Eight Days a Week (bridge); Hello Goodbye (verse); Hello Goodbye (verse_(instrumental)); Her Majesty (verse); … +37 more
 
-## vi → I  — 98 occurrences in 24 songs
+## vi → I  — 112 occurrences in 25 songs
 
-All I've Got To Do (verse); All I've Got To Do (verse_outro); All My Loving (outro); All You Need Is Love (intro); All You Need Is Love (refrain); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); Any Time At All (refrain); Baby It's You (outro_(fade-out)); Baby It's You (verse); Baby It's You (verse_(half_solo)); Can't Buy Me Love (refrain); … +30 more
+All I've Got To Do (verse); All I've Got To Do (verse_outro); All My Loving (outro); All You Need Is Love (intro); All You Need Is Love (refrain); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); Anna (Go To Him) (chorus); Anna (Go To Him) (intro); Anna (Go To Him) (verse); Any Time At All (refrain); Baby It's You (outro_(fade-out)); … +33 more
+
+## I → iii  — 96 occurrences in 20 songs
+
+A Day In The Life (intro); A Day In The Life (verse); A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); And Your Bird Can Sing (verse_(guitar_solo)); Any Time At All (verse); Can't Buy Me Love (intro); Can't Buy Me Love (refrain); Do You Want To Know A Secret (verse); Girl (refrain); Girl (refrain_(fade-out)); Good Night (intro); … +21 more
+
+## V → i  — 91 occurrences in 15 songs
+
+Because (full_bridge); Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (intro); Being For The Benefit Of Mr. Kite! (verse); Girl (verse); Girl (verse_(instrumental)); Golden Slumbers (verse); Here Comes The Sun (outro); Here, There And Everywhere (bridge); I Me Mine (intro); I Me Mine (refrain); I Me Mine (verse); … +21 more
 
 ## I → II  — 90 occurrences in 19 songs
 
 Act Naturally (bridge); All You Need Is Love (refrain); Black Bird (interlude); Black Bird (outro); Black Bird (verse); Black Bird (verse_(instrumental)); Eight Days a Week (intro); Eight Days a Week (outro); Eight Days a Week (verse); Her Majesty (verse); Honey Pie (intro); I Want To Tell You (bridge); … +20 more
 
-## I → iii  — 87 occurrences in 19 songs
+## IV → iv  — 85 occurrences in 16 songs
 
-A Hard Day's Night (verse); A Hard Day's Night (verse_(solo)); And Your Bird Can Sing (verse_(guitar_solo)); Any Time At All (verse); Can't Buy Me Love (intro); Can't Buy Me Love (refrain); Do You Want To Know A Secret (verse); Girl (refrain); Girl (refrain_(fade-out)); Good Night (intro); Good Night (outro); Good Night (verse); … +19 more
-
-## IV → iv  — 84 occurrences in 15 songs
-
-Black Bird (verse); Black Bird (verse_(instrumental)); Chains (outro); Dear Prudence (bridge); Dear Prudence (intro); Dear Prudence (verse'); Dear Prudence (verse); Devil In Her Heart (verse); Hold Me Tight (verse); I Saw Her Standing There (verseb); If I Fell (verse_+_extention); In My Life (verse); … +11 more
+Anna (Go To Him) (bridge); Black Bird (verse); Black Bird (verse_(instrumental)); Chains (outro); Dear Prudence (bridge); Dear Prudence (intro); Dear Prudence (verse'); Dear Prudence (verse); Devil In Her Heart (verse); Hold Me Tight (verse); I Saw Her Standing There (verseb); If I Fell (verse_+_extention); … +12 more
 
 ## vi → II  — 79 occurrences in 21 songs
 
 Baby's In Black (bridge); Cry Baby Cry (outro); Cry Baby Cry (refrain); Drive My Car (refrain); Eight Days a Week (bridge); Eight Days a Week (verse); Honey Pie (bridge); Honey Pie (intro); I Don't Want to Spoil the Party (bridge); I Don't Want to Spoil the Party (verse); I Will (bridge); I'll Be Back (bridge-2); … +16 more
 
-## V → i  — 78 occurrences in 14 songs
-
-Because (full_bridge); Girl (verse); Girl (verse_(instrumental)); Golden Slumbers (verse); Here Comes The Sun (outro); Here, There And Everywhere (bridge); I Me Mine (intro); I Me Mine (refrain); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I Want You (verse); I Want You (verse_(instrumental)); … +18 more
-
 ## II → IV  — 71 occurrences in 11 songs
 
 Baby's In Black (bridge); Eight Days a Week (bridge); Eight Days a Week (intro); Eight Days a Week (outro); Eight Days a Week (verse); I Don't Want to Spoil the Party (bridge); I Don't Want to Spoil the Party (verse); I'll Be Back (bridge-2); Magical Mystery Tour (verse); Magical Mystery Tour (verse_(slow)); Sgt. Pepper's Lonely Hearts Club Band (Reprise) (refrain_trans); Sgt. Pepper's Lonely Hearts Club Band (intro); … +9 more
 
-## ii → I  — 64 occurrences in 13 songs
+## ii → I  — 67 occurrences in 14 songs
 
-All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); And I Love Her (intro); Ask Me Why (verse_(variant_1)); Baby It's You (verse); Baby It's You (verse_(half_solo)); Black Bird (interlude); Black Bird (intro); Black Bird (refrain); Black Bird (verse); Devil In Her Heart (refrain); … +14 more
+A Day In The Life (verse); All You Need Is Love (intro); All You Need Is Love (verse); All You Need Is Love (verse_(guitar_solo)); And I Love Her (intro); Ask Me Why (verse_(variant_1)); Baby It's You (verse); Baby It's You (verse_(half_solo)); Black Bird (interlude); Black Bird (intro); Black Bird (refrain); Black Bird (verse); … +15 more
+
+## i → iv  — 63 occurrences in 14 songs
+
+A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); Do You Want To Know A Secret (intro); Girl (verse); Girl (verse_(instrumental)); Golden Slumbers (verse); Here, There And Everywhere (bridge); I Me Mine (refrain); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); … +9 more
+
+## IV → bVII  — 59 occurrences in 17 songs
+
+A Day In The Life (verse); Black Bird (refrain); Doctor Robert (refrain); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Hello Goodbye (first_outro); Hello Goodbye (refrain); Help! (verse); I Me Mine (intro); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I've Got A Feeling (bridge); In My Life (bridge); … +11 more
 
 ## I → bIII  — 58 occurrences in 13 songs
 
@@ -124,10 +132,6 @@ Ask Me Why (verse_(variant_2)); Ask Me Why (verse_(variant_2_with_ending)); Gett
 
 A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); Back in the USSR (refrain); Back in the USSR (verse); Back in the USSR (verse_(guitar_solo)); Black Bird (refrain); Helter Skelter (verse); I Am The Walrus (first_verse); I Am The Walrus (first_verse_variant); I Am The Walrus (refrain); I Want You (verse); I Want You (verse_(instrumental)); … +10 more
 
-## IV → bVII  — 54 occurrences in 16 songs
-
-Black Bird (refrain); Doctor Robert (refrain); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Hello Goodbye (first_outro); Hello Goodbye (refrain); Help! (verse); I Me Mine (intro); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I've Got A Feeling (bridge); In My Life (bridge); Lovely Rita (bridge); … +10 more
-
 ## VII → bV  — 54 occurrences in 4 songs
 
 Across the Universe (mantra); Across the Universe (refrain); Ob-La-Di, Ob-La-Da (bridge); Ob-La-Di, Ob-La-Da (refrain); Ob-La-Di, Ob-La-Da (verse); Piggies (bridge); Piggies (intro); Piggies (verse); Piggies (verse_(instrumental)); Yellow Submarine (refrain); Yellow Submarine (refrian_with_ending); Yellow Submarine (verse)
@@ -144,6 +148,10 @@ And Your Bird Can Sing (verse); And Your Bird Can Sing (verse_(guitar_solo)); Ev
 
 Any Time At All (bridge); Carry That Weight (bridge); Come Together (refrain); Hello Goodbye (verse); Hello Goodbye (verse_(instrumental)); I Don't Want to Spoil the Party (outro); I'm Looking Through You (verse); I'm Looking Through You (verse_with_outro_(fade-out)); Misery (bridge); Misery (intro); Not A Second Time (verse_a); Not A Second Time (verse_b); … +10 more
 
+## iii → vi  — 52 occurrences in 13 songs
+
+A Day In The Life (intro); A Day In The Life (verse); And I Love Her (bridge); Any Time At All (verse); Can't Buy Me Love (intro); Can't Buy Me Love (outro); Can't Buy Me Love (refrain); Happiness is a Warm Gun (part_1); Help! (verse); I Need You (verse); I Will (bridge); I Will (outro); … +5 more
+
 ## III → vi  — 51 occurrences in 17 songs
 
 All You Need Is Love (refrain); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Carry That Weight (bridge); Golden Slumbers (refrain); Happiness is a Warm Gun (part_1); Here, There And Everywhere (verse); I Should Have Known Better (bridge); I Should Have Known Better (verse'); Maxwell's Silver Hammer (interlude); Maxwell's Silver Hammer (interlude/outro); Run For Your Life (verse); … +12 more
@@ -156,45 +164,45 @@ For No One (bridge); For No One (bridge_with_ending); Good Night (intro); Good N
 
 All My Loving (verse); Do You Want To Know A Secret (bridge); Got To Get You Into My Life (verse); Hold Me Tight (bridge); I Want To Tell You (verse); I'm Looking Through You (intro); I'm Looking Through You (verse); I'm Looking Through You (verse_with_outro_(fade-out)); Octopus's Garden (bridge_(instrumental)); Oh! Darling (verse); Oh! Darling (verse/outro); Penny Lane (verse); … +7 more
 
-## i → iv  — 49 occurrences in 13 songs
+## i → IV  — 49 occurrences in 9 songs
 
-A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Do You Want To Know A Secret (intro); Girl (verse); Girl (verse_(instrumental)); Golden Slumbers (verse); Here, There And Everywhere (bridge); I Me Mine (refrain); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I'm Happy Just To Dance With You (intro_+_refrain_(second_half)); I'm Happy Just To Dance With You (refrain); … +7 more
+A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Being For The Benefit Of Mr. Kite! (intro); Being For The Benefit Of Mr. Kite! (verse); Don't Bother Me (outro); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Fixing A Hole (intro); I Me Mine (intro); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); … +7 more
 
 ## iii → ii  — 48 occurrences in 8 songs
 
 Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Girl (refrain); Girl (refrain_(fade-out)); Good Night (intro); Good Night (outro); Good Night (verse); Happiness is a Warm Gun (part_1); I'm Happy Just To Dance With You (verse); Long Long Long (refrain); No Reply (verse); While My Guitar Gently Weeps (bridge)
 
+## VI → ii  — 47 occurrences in 10 songs
+
+Being For The Benefit Of Mr. Kite! (verse); For No One (bridge); For No One (bridge_with_ending); Girl (bridge); Honey Pie (bridge); If I Needed Someone (bridge); Maxwell's Silver Hammer (verse); No Reply (bridge); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain); Till There Was You (bridge); Your Mother Should Know (verse)
+
 ## VI → II  — 46 occurrences in 11 songs
 
 Good Day Sunshine (refrain); Good Day Sunshine (verse); Good Day Sunshine (verse/break); Her Majesty (verse); Honey Pie (end_verse_(instrumental); Honey Pie (verse); Honey Pie (verse_(instrumental)); I Wanna Be Your Man (refrain); Little Child (outro); Lucy In The Sky With Diamonds (refrain); Martha My Dear (intro); Martha My Dear (verse); … +8 more
 
-## VI → ii  — 45 occurrences in 9 songs
+## bIII → V  — 46 occurrences in 13 songs
 
-For No One (bridge); For No One (bridge_with_ending); Girl (bridge); Honey Pie (bridge); If I Needed Someone (bridge); Maxwell's Silver Hammer (verse); No Reply (bridge); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain); Till There Was You (bridge); Your Mother Should Know (verse)
-
-## bIII → V  — 44 occurrences in 12 songs
-
-Another Girl (bridge); Girl (verse); Girl (verse_(instrumental)); Golden Slumbers (verse); I'm Only Sleeping (bridge); I'm Only Sleeping (verse); Penny Lane (refrain); Polythene Pam (verse); Something (intro); Something (outro); Something (verse); Something (verse_(instrumental)); … +13 more
-
-## iii → vi  — 43 occurrences in 12 songs
-
-And I Love Her (bridge); Any Time At All (verse); Can't Buy Me Love (intro); Can't Buy Me Love (outro); Can't Buy Me Love (refrain); Happiness is a Warm Gun (part_1); Help! (verse); I Need You (verse); I Will (bridge); I Will (outro); I'll Be Back (bridge-2); Please Mister Postman (intro); … +3 more
+Another Girl (bridge); Girl (verse); Girl (verse_(instrumental)); Golden Slumbers (verse); I'm Only Sleeping (bridge); I'm Only Sleeping (verse); Money (break); Money (intro); Penny Lane (refrain); Polythene Pam (verse); Something (intro); Something (outro); … +15 more
 
 ## bVII → V  — 42 occurrences in 10 songs
 
 All My Loving (verse); Dig a Pony (verse); Dig a Pony (verse_(instrumental)); Doctor Robert (verse); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Help! (intro); Help! (refrain); I Me Mine (intro); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I'm a Loser (intro); I'm a Loser (refrain); … +6 more
 
+## iv → V  — 42 occurrences in 7 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); Here, There And Everywhere (bridge); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I'm Happy Just To Dance With You (intro_+_refrain_(second_half)); I'm Happy Just To Dance With You (refrain); If I Fell (verse_(original)); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain); What Goes On (verse)
+
+## I → bVI  — 41 occurrences in 9 songs
+
+A Day In The Life (instrumental); Honey Don't (verse); Honey Don't (verse_(solo); Honey Don't (verse_(solo)); Honey Pie (end_verse_(instrumental); Honey Pie (verse); Honey Pie (verse_(instrumental)); I Am The Walrus (second_verse); It Won't Be Long (verse); Mean Mr Mustard (verse'); Mean Mr Mustard (verse); P. S. I Love You (outro); … +3 more
+
 ## bVII → bIII  — 41 occurrences in 12 songs
 
 Another Girl (bridge); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Here, There And Everywhere (verse); Lovely Rita (bridge); Revolution 1 (refrain); Revolution 1 (verse); She Came In Through The Bathroom Window (bridge); She Came In Through The Bathroom Window (bridge_(with_complete_ending)); Something (bridge); The End (part_3_(with_complete_ending)); The Word (bridge); Wait (bridge); … +5 more
 
-## I → bVI  — 40 occurrences in 8 songs
+## IV → bIII  — 39 occurrences in 9 songs
 
-Honey Don't (verse); Honey Don't (verse_(solo); Honey Don't (verse_(solo)); Honey Pie (end_verse_(instrumental); Honey Pie (verse); Honey Pie (verse_(instrumental)); I Am The Walrus (second_verse); It Won't Be Long (verse); Mean Mr Mustard (verse'); Mean Mr Mustard (verse); P. S. I Love You (outro); P. S. I Love You (verse); … +2 more
-
-## i → IV  — 38 occurrences in 7 songs
-
-A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Don't Bother Me (outro); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Fixing A Hole (intro); I Me Mine (intro); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); Norwegian Wood (This Bird Has Flown) (bridge); Revolution 1 (verse); … +3 more
+A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); Another Girl (verse); Baby You're A Rich Man (refrain); Back in the USSR (verse); Back in the USSR (verse_(guitar_solo)); Black Bird (refrain); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); I Am The Walrus (outro); Money (break); Money (intro); … +4 more
 
 ## I → iv  — 38 occurrences in 8 songs
 
@@ -216,29 +224,33 @@ A Hard Day's Night (bridge); And I Love Her (bridge); Can't Buy Me Love (intro);
 
 All You Need Is Love (refrain); Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Golden Slumbers (refrain); I Should Have Known Better (bridge); Maxwell's Silver Hammer (interlude); Maxwell's Silver Hammer (interlude/outro); No Reply (bridge); Savoy Truffle (bridge); Savoy Truffle (verse); Savoy Truffle (verse_(instrumental)); There's A Place (bridge); … +9 more
 
+## ii → vi  — 36 occurrences in 8 songs
+
+A Day In The Life (bridge); And I Love Her (verse); And I Love Her (verse_(instrumental)); Do You Want To Know A Secret (bridge); Happiness is a Warm Gun (part_1); I'm Looking Through You (verse); I'm Looking Through You (verse_with_outro_(fade-out)); Please Please Me (verse); She's Leaving Home (verse); There's A Place (verse)
+
 ## bVII → i  — 36 occurrences in 7 songs
 
 A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Cry Baby Cry (outro); Don't Bother Me (bridge); Don't Bother Me (intro); I Want You (verse); I Want You (verse_(instrumental)); Love You To (refrain); Love You To (sitar_solo); The Fool On The Hill (refrain); When I Get Home (refrain)
+
+## IV → vi  — 36 occurrences in 9 songs
+
+A Day In The Life (bridge); A Day In The Life (verse); All I've Got To Do (bridge); Drive My Car (refrain); Eight Days a Week (verse); She's Leaving Home (verse); The Night Before (bridge); Ticket To Ride (verse); What You're Doing (bridge); What You're Doing (verse); What You're Doing (verse_(guitar_solo)); With A Little Help From My Friends (bridge)
 
 ## i → bVII  — 36 occurrences in 6 songs
 
 Don't Bother Me (bridge); I'll Be Back (verse); Love You To (refrain); Love You To (sitar_solo); When I Get Home (refrain); While My Guitar Gently Weeps (intro); While My Guitar Gently Weeps (outro); While My Guitar Gently Weeps (verse); While My Guitar Gently Weeps (verse_(solo)); You Never Give Me Your Money (part_x)
 
-## IV → bIII  — 35 occurrences in 8 songs
-
-A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); Another Girl (verse); Baby You're A Rich Man (refrain); Back in the USSR (verse); Back in the USSR (verse_(guitar_solo)); Black Bird (refrain); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); I Am The Walrus (outro); Something (intro); Something (outro); … +2 more
-
 ## ii → bVII  — 35 occurrences in 7 songs
 
 All My Loving (verse); Cry Baby Cry (outro); Cry Baby Cry (refrain); Dig a Pony (verse); Dig a Pony (verse_(instrumental)); Help! (intro); Help! (refrain); I'm a Loser (intro); I'm a Loser (refrain); I'm a Loser (solo_break_(half-verse_+_refrain)); Octopus's Garden (bridge_(instrumental)); You're Going To Lose That Girl (solo/verse'); … +1 more
 
-## ii → vi  — 34 occurrences in 7 songs
-
-And I Love Her (verse); And I Love Her (verse_(instrumental)); Do You Want To Know A Secret (bridge); Happiness is a Warm Gun (part_1); I'm Looking Through You (verse); I'm Looking Through You (verse_with_outro_(fade-out)); Please Please Me (verse); She's Leaving Home (verse); There's A Place (verse)
-
 ## bVI → V  — 34 occurrences in 7 songs
 
 Honey Don't (verse); Honey Don't (verse_(solo); Honey Don't (verse_(solo)); Honey Pie (end_verse_(instrumental); Honey Pie (verse); Honey Pie (verse_(instrumental)); I Am The Walrus (intro); I Am The Walrus (intro_redux); I Am The Walrus (outro); I'll Be Back (verse); Mean Mr Mustard (verse'); Mean Mr Mustard (verse); … +2 more
+
+## IV → II  — 33 occurrences in 11 songs
+
+Anna (Go To Him) (bridge); Ask Me Why (verse_(initial)); For You Blue (intro); Good Day Sunshine (verse/break); Here Comes The Sun (outro); Here Comes The Sun (refrain); Hold Me Tight (verse); Little Child (break); Little Child (verse); Sexy Sadie (bridge); The End (part_1_); Things We Said Today (bridge); … +1 more
 
 ## ii → iii  — 33 occurrences in 7 songs
 
@@ -248,17 +260,13 @@ Ask Me Why (verse_(initial)); Ask Me Why (verse_(variant_1)); Getting Better (br
 
 Good Day Sunshine (verse); Happiness is a Warm Gun (part_3); Helter Skelter (intro); Her Majesty (verse); I Wanna Be Your Man (refrain); Little Child (outro); Little Child (verse); Mr. Moonlight (outro_verse_(fade-out)); Mr. Moonlight (verse_(half_vocal _half_solo)); Mr. Moonlight (verse_(variant)); Strawberry Fields Forever (verse); Till There Was You (bridge); … +4 more
 
-## IV → II  — 32 occurrences in 10 songs
+## IV → i  — 32 occurrences in 8 songs
 
-Ask Me Why (verse_(initial)); For You Blue (intro); Good Day Sunshine (verse/break); Here Comes The Sun (outro); Here Comes The Sun (refrain); Hold Me Tight (verse); Little Child (break); Little Child (verse); Sexy Sadie (bridge); The End (part_1_); Things We Said Today (bridge); You Really Got A Hold On Me (verse)
+A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Come Together (intro/verse); Don't Bother Me (outro); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Get Back (break_(guitar_solo)); Lovely Rita (outro_b); Money (break); Money (intro); Norwegian Wood (This Bird Has Flown) (bridge); … +1 more
 
 ## V → bVII  — 32 occurrences in 4 songs
 
 Here, There And Everywhere (verse); I'm a Loser (outro_(fade-out)); I'm a Loser (solo_break_(half-verse_+_refrain)); I'm a Loser (verse); I've Got A Feeling (bridge); I've Got A Feeling (verse); You've Got To Hide Your Love Away (verse'); You've Got To Hide Your Love Away (verse); You've Got To Hide Your Love Away (verse_(solo)_with_ending)
-
-## IV → vi  — 31 occurrences in 8 songs
-
-All I've Got To Do (bridge); Drive My Car (refrain); Eight Days a Week (verse); She's Leaving Home (verse); The Night Before (bridge); Ticket To Ride (verse); What You're Doing (bridge); What You're Doing (verse); What You're Doing (verse_(guitar_solo)); With A Little Help From My Friends (bridge)
 
 ## I → v  — 30 occurrences in 6 songs
 
@@ -268,6 +276,10 @@ Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Good Morning Good Mo
 
 A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Do You Want To Know A Secret (intro); Girl (verse); Girl (verse_(instrumental)); I Me Mine (refrain); I'm Only Sleeping (refrain_with_ending); The End (part_3_(with_complete_ending)); The Fool On The Hill (refrain); Wait (verse); Wait (verse_with_outro)
 
+## bIII → bVII  — 29 occurrences in 8 songs
+
+A Day In The Life (instrumental); A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); A Taste Of Honey (intro); A Taste Of Honey (verse); Another Girl (bridge); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Here Comes The Sun (bridge_(instrumental)); I Want You (verse); I Want You (verse_(instrumental)); Penny Lane (refrain); Revolution 1 (refrain); … +1 more
+
 ## i → v  — 29 occurrences in 3 songs
 
 Don't Bother Me (bridge); Don't Bother Me (verse); Good Morning Good Morning (verse_a); Things We Said Today (verse)
@@ -276,21 +288,21 @@ Don't Bother Me (bridge); Don't Bother Me (verse); Good Morning Good Morning (ve
 
 Ask Me Why (verse_(variant_2)); Ask Me Why (verse_(variant_2_with_ending)); Good Night (verse); I Will (bridge); I Will (outro); Long Long Long (refrain); No Reply (verse); Nowhere Man (bridge); The Long and Winding Road (verse)
 
-## iv → V  — 28 occurrences in 6 songs
-
-Here, There And Everywhere (bridge); I Me Mine (verse); I Me Mine (verse_(with_complete_ending)); I'm Happy Just To Dance With You (intro_+_refrain_(second_half)); I'm Happy Just To Dance With You (refrain); If I Fell (verse_(original)); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain); What Goes On (verse)
-
 ## v → i  — 28 occurrences in 3 songs
 
 I Want You (verse); Things We Said Today (verse); Two of Us (bridge)
+
+## V+ → i  — 28 occurrences in 3 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); Fixing A Hole (intro); Fixing A Hole (outro); Fixing A Hole (verse); Fixing A Hole (verse_guitar); I Want You (outro); I Want You (refrain)
 
 ## vi → iv  — 27 occurrences in 8 songs
 
 Any Time At All (verse); Ask Me Why (verse_(initial)); I Will (verse); I'm Happy Just To Dance With You (refrain); I'm So Tired (verse); Lucy In The Sky With Diamonds (intro); Lucy In The Sky With Diamonds (verse); The Continuing Story of Bungalow Bill (verse); The Night Before (verse); The Night Before (verse_(half_solo))
 
-## bIII → bVII  — 27 occurrences in 7 songs
+## i → V  — 27 occurrences in 5 songs
 
-A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); A Taste Of Honey (intro); A Taste Of Honey (verse); Another Girl (bridge); Everybody's Got Something To Hide Except Me and My Monkey (refrain); Here Comes The Sun (bridge_(instrumental)); I Want You (verse); I Want You (verse_(instrumental)); Penny Lane (refrain); Revolution 1 (refrain); Revolution 1 (verse)
+Come Together (1/2_intro/verse); Come Together (1/2_intro/verse_(instrumental)); Come Together (intro/verse); Girl (verse); Girl (verse_(instrumental)); I Me Mine (refrain); Money (break); Money (intro); Wait (verse); Wait (verse_with_outro)
 
 ## bVI → i  — 26 occurrences in 4 songs
 
@@ -304,17 +316,9 @@ Honey Pie (verse); Honey Pie (verse_(instrumental)); I'm So Tired (verse); If I 
 
 Fixing A Hole (bridge); Good Day Sunshine (refrain); I Am The Walrus (intro_redux); I Need You (bridge); Lucy In The Sky With Diamonds (refrain); Magical Mystery Tour (intro); Magical Mystery Tour (verse); Magical Mystery Tour (verse_(slow)); Maxwell's Silver Hammer (verse)
 
-## i → V  — 25 occurrences in 4 songs
-
-Come Together (1/2_intro/verse); Come Together (1/2_intro/verse_(instrumental)); Come Together (intro/verse); Girl (verse); Girl (verse_(instrumental)); I Me Mine (refrain); Wait (verse); Wait (verse_with_outro)
-
 ## III → VII  — 25 occurrences in 4 songs
 
 Across the Universe (refrain); Ob-La-Di, Ob-La-Da (bridge); Ob-La-Di, Ob-La-Da (verse); Piggies (bridge); Yellow Submarine (verse); Yellow Submarine (verse_(instrumental))
-
-## IV → i  — 24 occurrences in 7 songs
-
-A Taste Of Honey (bridge); A Taste Of Honey (bridge_with_ending); A Taste Of Honey (verse); Come Together (intro/verse); Don't Bother Me (outro); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Get Back (break_(guitar_solo)); Lovely Rita (outro_b); Norwegian Wood (This Bird Has Flown) (bridge); Revolution 1 (verse)
 
 ## bVI → I  — 24 occurrences in 8 songs
 
@@ -323,10 +327,6 @@ Hello Goodbye (refrain); Honey Don't (verse); Honey Don't (verse_(solo); Honey D
 ## i → bVI  — 23 occurrences in 3 songs
 
 Eleanor Rigby (bridge); Eleanor Rigby (intro); Eleanor Rigby (verse); Revolution 1 (verse); While My Guitar Gently Weeps (intro); While My Guitar Gently Weeps (outro); While My Guitar Gently Weeps (verse); While My Guitar Gently Weeps (verse_(solo))
-
-## V+ → i  — 23 occurrences in 2 songs
-
-Fixing A Hole (intro); Fixing A Hole (outro); Fixing A Hole (verse); Fixing A Hole (verse_guitar); I Want You (outro); I Want You (refrain)
 
 ## bIII → I  — 22 occurrences in 10 songs
 
@@ -339,6 +339,10 @@ I Am The Walrus (second_verse); I'm Happy Just To Dance With You (intro_+_refrai
 ## iii → I  — 20 occurrences in 8 songs
 
 A Hard Day's Night (bridge); I Will (verse); Julia (bridge); Julia (outro); Julia (refrain); Julia (verse); Martha My Dear (bridge); Martha My Dear (bridge_extension); Something (verse); Something (verse_(instrumental)); Sun King (verse_(instrumental)); The Continuing Story of Bungalow Bill (intro); … +1 more
+
+## ii → VI  — 20 occurrences in 5 songs
+
+And I Love Her (outro); Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); For No One (bridge); For No One (bridge_with_ending); Girl (bridge); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain)
 
 ## IVsus → IV  — 20 occurrences in 5 songs
 
@@ -376,6 +380,10 @@ Across the Universe (refrain); Yellow Submarine (verse); Yellow Submarine (verse
 
 I Want You (intro); I Want You (outro); I Want You (refrain)
 
+## i → bIII  — 18 occurrences in 6 songs
+
+A Taste Of Honey (intro); A Taste Of Honey (verse); Being For The Benefit Of Mr. Kite! (bridge); Do You Want To Know A Secret (intro); I Want You (verse); I Want You (verse_(instrumental)); Things We Said Today (verse); When I Get Home (refrain)
+
 ## bVII → bVI  — 18 occurrences in 3 songs
 
 I Am The Walrus (intro); I Am The Walrus (intro_redux); I Am The Walrus (outro); I Want You (verse); I Want You (verse_(instrumental)); I'll Be Back (verse)
@@ -384,9 +392,17 @@ I Am The Walrus (intro); I Am The Walrus (intro_redux); I Am The Walrus (outro);
 
 I Want You (outro); Wild Honey Pie (break)
 
-## i → bIII  — 17 occurrences in 5 songs
+## bIII → i  — 17 occurrences in 6 songs
 
-A Taste Of Honey (intro); A Taste Of Honey (verse); Do You Want To Know A Secret (intro); I Want You (verse); I Want You (verse_(instrumental)); Things We Said Today (verse); When I Get Home (refrain)
+Cry Baby Cry (verse); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Here, There And Everywhere (bridge); Money (break); Money (intro); Not A Second Time (refrain); Not A Second Time (refrain_solo); Wait (bridge)
+
+## bVI → bIII  — 17 occurrences in 4 songs
+
+A Day In The Life (instrumental); Helter Skelter (intro); I'm Only Sleeping (bridge); I'm Only Sleeping (verse); I'm Only Sleeping (verse_(guitar_solo)); You're Going To Lose That Girl (bridge)
+
+## bVII → ii  — 17 occurrences in 2 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); Dig a Pony (verse); Dig a Pony (verse_(instrumental))
 
 ## v → bVII  — 17 occurrences in 2 songs
 
@@ -411,18 +427,6 @@ Get Back (break_(guitar_solo)); Get Back (break_(piano_solo)); Get Back (intro);
 ## bIII → bVI  — 15 occurrences in 3 songs
 
 I'm Only Sleeping (bridge); I'm Only Sleeping (verse); I'm Only Sleeping (verse_(guitar_solo)); Please Please Me (outro); You're Going To Lose That Girl (bridge)
-
-## bIII → i  — 15 occurrences in 5 songs
-
-Cry Baby Cry (verse); Don't Bother Me (verse); Don't Bother Me (verse_half_solo); Here, There And Everywhere (bridge); Not A Second Time (refrain); Not A Second Time (refrain_solo); Wait (bridge)
-
-## ii → VI  — 15 occurrences in 4 songs
-
-And I Love Her (outro); For No One (bridge); For No One (bridge_with_ending); Girl (bridge); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain)
-
-## bVI → bIII  — 15 occurrences in 3 songs
-
-Helter Skelter (intro); I'm Only Sleeping (bridge); I'm Only Sleeping (verse); I'm Only Sleeping (verse_(guitar_solo)); You're Going To Lose That Girl (bridge)
 
 ## vii → III  — 15 occurrences in 3 songs
 
@@ -524,6 +528,10 @@ I'm Happy Just To Dance With You (outro); Run For Your Life (verse); The Continu
 
 I'll Be Back (intro); I'll Be Back (verse); Magical Mystery Tour (outro); Penny Lane (verse); Penny Lane (verse_(solo))
 
+## V → V+  — 12 occurrences in 4 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse); It's Only Love (verse); Oh! Darling (bridge); One After 909 (bridge)
+
 ## bv°7 → V  — 12 occurrences in 1 songs
 
 Michelle (outro_verse_(instrumental)); Michelle (verse); Michelle (verse_(instrumental))
@@ -608,6 +616,10 @@ I Want To Tell You (intro); I Want To Tell You (outro); I Want To Tell You (vers
 
 Lucy In The Sky With Diamonds (bridge); The Continuing Story of Bungalow Bill (outro); The Continuing Story of Bungalow Bill (refrain)
 
+## V+ → bVII  — 10 occurrences in 1 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse)
+
 ## VII → IV  — 10 occurrences in 2 songs
 
 I'm So Tired (verse); Sexy Sadie (outro); Sexy Sadie (verse)
@@ -660,6 +672,10 @@ If I Fell (verse_(original)); If I Fell (verse_+_extention)
 
 If I Fell (verse_(original)); If I Fell (verse_+_extention)
 
+## VI → I  — 8 occurrences in 4 songs
+
+A Day In The Life (bridge); Happiness is a Warm Gun (part_2); Happiness is a Warm Gun (part_3); I'll Be Back (intro); Savoy Truffle (bridge)
+
 ## IV → v  — 8 occurrences in 2 songs
 
 Black Bird (refrain); Drive My Car (verse); Drive My Car (verse_(solo))
@@ -671,6 +687,10 @@ Piggies (bridge); Yellow Submarine (verse); Yellow Submarine (verse_(instrumenta
 ## bVII7 → I  — 8 occurrences in 2 songs
 
 For No One (verse); For No One (verse_(instrumental_solo)); Wild Honey Pie (outro); Wild Honey Pie (refrain)
+
+## i → V+  — 8 occurrences in 1 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse)
 
 ## IV → bVI  — 8 occurrences in 3 songs
 
@@ -716,17 +736,9 @@ Till There Was You (intro); Till There Was You (verse); Till There Was You (vers
 
 Till There Was You (intro); Till There Was You (verse); Till There Was You (verse_guitar_solo)
 
-## VI → I  — 7 occurrences in 3 songs
-
-Happiness is a Warm Gun (part_2); Happiness is a Warm Gun (part_3); I'll Be Back (intro); Savoy Truffle (bridge)
-
 ## vi → III  — 7 occurrences in 2 songs
 
 I Don't Want to Spoil the Party (bridge); I Don't Want to Spoil the Party (verse); I Don't Want to Spoil the Party (verse_(guitar_solo)); When I'm Sixty-Four (bridge)
-
-## V → V+  — 7 occurrences in 3 songs
-
-It's Only Love (verse); Oh! Darling (bridge); One After 909 (bridge)
 
 ## iv → bVIImaj6  — 7 occurrences in 1 songs
 
@@ -755,10 +767,6 @@ Cry Baby Cry (outro); Cry Baby Cry (refrain)
 ## iv → bVII7  — 7 occurrences in 2 songs
 
 Golden Slumbers (verse); You Never Give Me Your Money (part_x)
-
-## bVII → ii  — 7 occurrences in 1 songs
-
-Dig a Pony (verse); Dig a Pony (verse_(instrumental))
 
 ## v → iv  — 6 occurrences in 2 songs
 
@@ -848,6 +856,10 @@ Across the Universe (verse'); Across the Universe (verse)
 
 Across the Universe (verse'); Across the Universe (verse)
 
+## iv → II  — 5 occurrences in 3 songs
+
+Anna (Go To Him) (bridge); Ask Me Why (verse_(initial)); Devil In Her Heart (verse)
+
 ## v → ii  — 5 occurrences in 2 songs
 
 Do You Want To Know A Secret (bridge); She's Leaving Home (verse)
@@ -920,6 +932,10 @@ Her Majesty (verse); I Want To Tell You (bridge)
 
 Honey Pie (intro); I Want To Tell You (bridge); Long Long Long (intro)
 
+## bVII → vi  — 5 occurrences in 1 songs
+
+A Day In The Life (verse)
+
 ## V → bvi°  — 5 occurrences in 2 songs
 
 Black Bird (verse); Black Bird (verse_(instrumental)); Strawberry Fields Forever (verse)
@@ -979,10 +995,6 @@ I've Got A Feeling (outro)
 ## I → I+  — 4 occurrences in 1 songs
 
 Ask Me Why (bridge); Ask Me Why (verse_(variant_1)); Ask Me Why (verse_(variant_2))
-
-## iv → II  — 4 occurrences in 2 songs
-
-Ask Me Why (verse_(initial)); Devil In Her Heart (verse)
 
 ## IV → biii°7  — 4 occurrences in 1 songs
 
@@ -1236,6 +1248,10 @@ Michelle (bridge)
 
 In My Life (bridge)
 
+## ii → i  — 3 occurrences in 2 songs
+
+Being For The Benefit Of Mr. Kite! (verse); Eleanor Rigby (refrain_with_ending)
+
 ## bVIImaj(9) → IV  — 3 occurrences in 1 songs
 
 She Said She Said (verse)
@@ -1256,6 +1272,10 @@ Got To Get You Into My Life (verse)
 
 Lucy In The Sky With Diamonds (refrain)
 
+## VI → i  — 3 occurrences in 1 songs
+
+Being For The Benefit Of Mr. Kite! (bridge); Being For The Benefit Of Mr. Kite! (verse)
+
 ## IV → biii°7/b3  — 3 occurrences in 1 songs
 
 When I'm Sixty-Four (verse)
@@ -1263,6 +1283,14 @@ When I'm Sixty-Four (verse)
 ## biii°7/b3 → I  — 3 occurrences in 1 songs
 
 When I'm Sixty-Four (verse)
+
+## VI → bVII  — 3 occurrences in 2 songs
+
+A Day In The Life (vocal); Mean Mr Mustard (verse'); Mean Mr Mustard (verse)
+
+## I → bVII(1)  — 3 occurrences in 2 songs
+
+A Day In The Life (instrumental); Birthday (short_connector)
 
 ## IV → bIIImaj(#11)  — 3 occurrences in 1 songs
 
@@ -1508,9 +1536,21 @@ Lucy In The Sky With Diamonds (verse)
 
 Lucy In The Sky With Diamonds (verse)
 
+## bvii → V+  — 2 occurrences in 1 songs
+
+Being For The Benefit Of Mr. Kite! (verse)
+
 ## IV → Isus  — 2 occurrences in 1 songs
 
 Within You Without You (refrain)
+
+## VII → vi  — 2 occurrences in 1 songs
+
+A Day In The Life (bridge)
+
+## vi → VI  — 2 occurrences in 2 songs
+
+A Day In The Life (bridge); Happiness is a Warm Gun (part_2)
 
 ## vii → vii°  — 2 occurrences in 1 songs
 
@@ -1572,10 +1612,6 @@ Piggies (bridge)
 
 Piggies (outro)
 
-## I → bVII(1)  — 2 occurrences in 1 songs
-
-Birthday (short_connector)
-
 ## bIIImaj6 → I  — 2 occurrences in 1 songs
 
 Everybody's Got Something To Hide Except Me and My Monkey (refrain)
@@ -1619,10 +1655,6 @@ You Never Give Me Your Money (part_z_(fade-out))
 ## bVI → bVImaj7  — 2 occurrences in 1 songs
 
 Sun King (refrain)
-
-## VI → bVII  — 2 occurrences in 1 songs
-
-Mean Mr Mustard (verse'); Mean Mr Mustard (verse)
 
 ## bVII → VI  — 2 occurrences in 1 songs
 

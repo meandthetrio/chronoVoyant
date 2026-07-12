@@ -52,10 +52,11 @@ language as [MusicTheory/AXIOMS.md](../MusicTheory/AXIOMS.md).
   Syntactical Approach" (JMT 2016) and *Form as Harmony in Rock Music*
   (OUP 2020).
 
-Coverage: 175 of 180 Isophonics songs. Excluded: Revolution 9 (no
-discernible key — excluded by the BeatlesFC authors) and four songs
-absent from the BeatlesFC repository (Anna (Go To Him), Money, Being
-For The Benefit Of Mr. Kite!, A Day In The Life).
+Coverage: 179 of 180 Isophonics songs — the full BeatlesFC set. The
+only exclusion is Revolution 9 (no discernible key; excluded by the
+BeatlesFC authors). Filenames differ slightly between the two datasets
+(punctuation, truncated titles), so `build_corpus.py` matches songs on
+normalized names.
 
 ## How this is used in chronoVoyant
 
