@@ -27,6 +27,7 @@ workbooks are in this folder.
 | 14 | She Loves You | ~858 | SheLovesYou.xlsx |
 | 15 | She Said She Said | 863 | SheSaidSheSaid.xlsx |
 | 16 | Your Mother Should Know | 1102 | YourMotherShouldKnow.xlsx |
+| 17 | You're Going to Lose That Girl | ~1098 | YoureGoingToLoseThatGirl.xlsx |
 
 Note: **All You Need Is Love** is the one gap — its parallel-agent run
 failed and it was not rebuilt by hand in this pass (its 7/4 mixed meter
