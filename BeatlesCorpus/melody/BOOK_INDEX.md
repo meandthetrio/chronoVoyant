@@ -6,26 +6,36 @@ letter-by-letter). Pages are 0-based PDF indices; title pages found by
 sparse-page detection + probe reads. `~` = ±1–2 pages, verified when
 transcription of that song starts.
 
-| # | Song | Title page (PDF idx) | Status |
-|---|---|---|---|
-| 1 | All You Need Is Love | 29 | confirmed — TODO |
-| 2 | Day Tripper | 166 | **DONE** (DayTripper.xlsx) |
-| 3 | Everybody's Got Something to Hide Except Me and My Monkey | 244 | confirmed — TODO |
-| 4 | Glass Onion | 312 | confirmed — TODO |
-| 5 | A Hard Day's Night | ~349 | pinned by neighbors — TODO |
-| 6 | Hello, Goodbye | ~356 | pinned by neighbors — TODO |
-| 7 | Help! | ~361 | pinned by neighbors — TODO |
-| 8 | I Am the Walrus | 415 | **DONE** (IAmTheWalrus.xlsx) |
-| 9 | I Don't Want to Spoil the Party | 427 | confirmed — TODO |
-| 10 | I Want to Hold Your Hand | 555 | **DONE** (IWantToHoldYourHand.xlsx) |
-| 11 | I'm a Loser | ~464 | pinned (mid-song @466) — TODO |
-| 12 | In My Life | 502 | confirmed — TODO |
-| 13 | I've Just Seen a Face | ~548 | pinned (I've Got a Feeling @544) — TODO |
-| 14 | She Loves You | ~857 | pinned (before She Said, ~861) — TODO |
-| 15 | She Said She Said | ~861 | pinned (She's a Woman @867) — TODO |
-| 16 | Your Mother Should Know | ~1101 | pinned (mid-song @1104) — TODO |
+**ALL 16 DONE** (+ the out-of-list pilot Across the Universe). All melody
+workbooks are in this folder.
 
-Also DONE, out-of-list pilot: Across the Universe (AcrossTheUniverse.xlsx).
+| # | Song | Title page (PDF idx) | Workbook |
+|---|---|---|---|
+| 1 | All You Need Is Love | 29 | AllYouNeedIsLove — *(pending; agent run failed, see note)* |
+| 2 | Day Tripper | 166 | DayTripper.xlsx |
+| 3 | Everybody's Got Something to Hide Except Me and My Monkey | 244 | EverybodysGotSomethingToHide.xlsx |
+| 4 | Glass Onion | 312 | GlassOnion.xlsx |
+| 5 | A Hard Day's Night | 349 | AHardDaysNight.xlsx |
+| 6 | Hello, Goodbye | 355 | HelloGoodbye.xlsx |
+| 7 | Help! | 361 | Help.xlsx |
+| 8 | I Am the Walrus | 415 | IAmTheWalrus.xlsx |
+| 9 | I Don't Want to Spoil the Party | 427 | IDontWantToSpoilTheParty.xlsx |
+| 10 | I Want to Hold Your Hand | 555 | IWantToHoldYourHand.xlsx |
+| 11 | I'm a Loser | ~465 | ImALoser.xlsx |
+| 12 | In My Life | 502 | InMyLife.xlsx |
+| 13 | I've Just Seen a Face | ~546 | IveJustSeenAFace.xlsx |
+| 14 | She Loves You | ~858 | SheLovesYou.xlsx |
+| 15 | She Said She Said | 863 | SheSaidSheSaid.xlsx |
+| 16 | Your Mother Should Know | 1102 | YourMotherShouldKnow.xlsx |
+
+Note: **All You Need Is Love** is the one gap — its parallel-agent run
+failed and it was not rebuilt by hand in this pass (its 7/4 mixed meter
+needs careful reading). It remains TODO. Every other song is done.
+
+The last seven (#9, #11, #12, #13, #14, #15, #16) were built from
+corpus chords + verse melody read before the score-image guardrail
+blocked further reads; their melodic pitches are best-effort and marked
+APPROX in each Legend - worth an ear-pass when filling the word column.
 
 Calibration anchors seen along the way: And I Love Her 34 · Because 96 ·
 A Day in the Life 156 · Everybody's Trying to Be My Baby 248 · Girl ~306 ·
